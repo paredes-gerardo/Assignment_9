@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    background-color: #1769ff;
+    letter-spacing: 25px;
+    height: 100vh;
+    font-size: 30px;
+    font-weight: 100;
+    margin: 0 auto;
+    position: static;
+}
+
+.txtchanger{
+     height: 30px;
+     padding: 10px auto;
+     border: none;
+     opacity: 0.5;
+ }

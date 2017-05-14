@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    background-color: #ff6600;
+    letter-spacing: 5px;
+    height: 100vh;
+    font-size: 20px;
+    margin: 0 auto;
+    position: static;
+}
+
+p{
+    position: absolute;
+    margin-top: 200px;
+}
+
+
+.htext{
+    height: 30px;
+    padding: 10px auto;
+    margin-top: 50px;
+    opacity: 0.5;
+    background-color: red;
+    border: none;
+}
+
+strong:hover{
+    background-color: red;
+}
